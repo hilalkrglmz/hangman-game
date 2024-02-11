@@ -18,7 +18,6 @@ https://github.com/hilalkrglmz/hangman-game/assets/140657703/00c65c09-5041-4645-
         <h2>About Project</h2>
             <ul>
                 <li>JavaScript</li>
-    
             </ul>
             <h2>SETUP and USE</h2>
         <ol>
